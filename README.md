@@ -1,6 +1,6 @@
 # PDF Page Counter
 
-This Python script efficiently counts the number of pages in all PDF files within a specified directory. It logs any errors encountered during the process and outputs the results to a CSV file.
+This Python script counts the number of pages in all PDF files within a specified directory. It logs any errors encountered during the process and outputs the results to a CSV file.
 
 ## How to Use:
 
